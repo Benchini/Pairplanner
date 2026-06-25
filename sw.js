@@ -3,9 +3,9 @@ const CACHE = 'avp-v1';
 // Files to cache for offline use
 
 const ASSETS = [
-  '/availability-planner/',
-  '/availability-planner/index.html',
-  '/availability-planner/manifest.json'
+  '/pairplanner/',
+  '/pairplanner/index.html',
+  '/pairplanner/manifest.json'
 ];
 
 // Install: cache all assets
