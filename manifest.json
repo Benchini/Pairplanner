@@ -2,7 +2,7 @@
   "name": "Availability Planner",
   "short_name": "Availability",
   "description": "Mark busy days and find when two people can meet up.",
-  "start_url": "/availability-planner/",
+  "start_url": "/pairplanner/",
   "display": "standalone",
   "background_color": "#f0f4f8",
   "theme_color": "#667eea",
